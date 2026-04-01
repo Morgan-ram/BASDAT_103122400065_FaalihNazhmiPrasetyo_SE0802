@@ -1,5 +1,5 @@
-SQL> --nama : Rizqi Nawaf Putra Rosyadi
-SQL> --nim : 103122430010
+SQL> --nama : Faalih Nazhmi Prasetyo
+SQL> --nim : 103122400065
 SQL> CREATE TABLE kategori_gadget (
   2      id_ktg CHAR(5) CONSTRAINT pk_ktg PRIMARY KEY,
   3      nama_ktg VARCHAR2(20)
